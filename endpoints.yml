@@ -11,7 +11,7 @@
 # https://rasa.com/docs/rasa/custom-actions
 
 action_endpoint:
-  url: "http://localhost:5055/webhook"
+  url: "http://ec2-3-82-208-228.compute-1.amazonaws.com:5005/webhook"
 
 # Tracker store which is used to store the conversations.
 # By default the conversations are stored in memory.
