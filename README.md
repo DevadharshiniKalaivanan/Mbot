@@ -7,6 +7,6 @@ The main aim of the proof of concept is to analyse the sentiment of the reviews 
 - Departments
 
 ## How to Use
-- Clone the Repositiory or Download the Folder.
+- Clone the Repository or Download the Folder.
 - Install Python requirements pip install -r requirements.txt
 - Run the main.py
