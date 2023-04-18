@@ -1,5 +1,5 @@
 # Feedback ML Model
-The main of the proof of concept is to analyse the sentiment of the reviews and identify its departmet.
+The main of the proof of concept is to analyse the sentiment of the reviews and identify its department.
 
 ## Feature Used
 - Reviews
