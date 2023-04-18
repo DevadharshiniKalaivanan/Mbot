@@ -2,7 +2,7 @@
 The main aim of the proof of concept is to analyse the sentiment of the reviews and identify its department which can further used for recommendation .
 
 ## Feature Used
-- From the dataset we consider the following features
+ From the dataset we consider the following features
 - Reviews
 - Departments
 
